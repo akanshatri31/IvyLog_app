@@ -1,7 +1,7 @@
-# IvyLog_app
+## IvyLog_app
 Repo to store files used to develop Ivy project for test
 
-#Ivy_log_application
+##Ivy_log_application
 The application is to provide user experience of a product to monitor the daily activity of the devices installed at their premises. It has been developed using python and Flask framework for the endpoint.
 
 ## Installation
@@ -17,6 +17,13 @@ The application is to provide user experience of a product to monitor the daily 
 ## Running the application
 1.	To start the application locally run below command.
              bash src/https://github.com/akanshatri31/IvyLog_app/blob/main/setup.sh
+             
+## Testing
+1.  End point: get_logs
+    Type in your browser: http://ec2-18-170-118-201.eu-west-2.compute.amazonaws.com/get_logs
+    Expected result: Fetch firs
+             
+
 
 
 
