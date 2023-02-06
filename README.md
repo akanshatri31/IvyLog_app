@@ -12,11 +12,11 @@ The application is to provide user experience of a product to monitor the daily 
     For Ubuntu-based Linux systems
     sudo apt install mysql-client
 4.  Once installed, use mysqldump to get a full backup of a database.
-    mysqldump -h [your DB host's name or IP] -u [your DB user's name] -p [your db password] > (https://github.com/akanshatri31/IvyLog_app/blob/main/SQL%20Data/sqldatadump)
+    mysqldump -h [your DB host's name or IP] -u [your DB user's name] -p [your db password] >       (https://github.com/akanshatri31/IvyLog_app/blob/main/SQL%20Data/sqldatadump)
 
 ## Running the application
 1.	To start the application locally run below command.
-    bash src/https://github.com/akanshatri31/IvyLog_app/blob/main/setup.sh
+             bash src/https://github.com/akanshatri31/IvyLog_app/blob/main/setup.sh
 
 
 
