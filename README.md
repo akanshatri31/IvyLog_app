@@ -18,6 +18,7 @@ The application is to provide user experience of a product to monitor the daily 
 
 ## Running the application
 1.	To start the application locally run below command.
+
              bash setup.sh
              
 
