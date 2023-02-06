@@ -16,7 +16,7 @@ The application is to provide user experience of a product to monitor the daily 
 
 ## Running the application
 1.	To start the application locally run below command.
-bash src/https://github.com/akanshatri31/IvyLog_app/blob/main/setup.sh
+    bash src/https://github.com/akanshatri31/IvyLog_app/blob/main/setup.sh
 
 
 
